@@ -1,0 +1,24 @@
+{
+  "name": "John Doe",
+  "title": "Unity Developer",
+  "skills": [
+    "Unity",
+    "C#",
+    "SQLite",
+    "Flutter",
+    "Python",
+    "Git"
+  ],
+  "projects": [
+    {
+      "name": "Unity Mobile Game",
+      "description": "Mobile game built with Unity using SQLite save system",
+      "tech": ["Unity","C#","SQLite"]
+    },
+    {
+      "name": "Perudo Online",
+      "description": "Online multiplayer dice game",
+      "tech": ["React","Node"]
+    }
+  ]
+}

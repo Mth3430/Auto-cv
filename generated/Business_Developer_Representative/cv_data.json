@@ -1,0 +1,51 @@
+{
+  "nom": "Alexandre Dupont",
+  "titre": "Business Developer Representative",
+  "email": "alexandre.dupont@example.com",
+  "telephone": "06 12 34 56 78",
+  "ville": "Montpellier",
+  "linkedin": "",
+  "github": "",
+  "photo": "",
+  "accroche": "Je suis un professionnel dynamique et motivé, prêt à booster les ventes de Kinvent en France. Avec mon bagage en marketing et en vente, je suis convaincu que je peux ajouter valeur à votre équipe.",
+  "competences": [
+    "Prospection",
+    "Marketing",
+    "Vente"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Natif"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "B2"
+    }
+  ],
+  "experiences": [
+    {
+      "poste": "Vendeur Junior",
+      "entreprise": "ABC Entreprise",
+      "dates": "Janvier 2018 – Décembre 2019",
+      "description": "Vente de produits logiciels à des entreprises et particuliers, suivi des prospects et gestion de pipeline."
+    }
+  ],
+  "projets": [
+    {
+      "nom": "Marketing Campagne",
+      "technologies": [
+        "Google Analytics",
+        "Email Marketing"
+      ],
+      "description": "Conception et mise en œuvre d'une campagne de marketing en ligne pour booster les ventes de produits logiciels."
+    }
+  ],
+  "formation": [
+    {
+      "diplome": "Licence en Marketing",
+      "etablissement": "Université de Montpellier",
+      "dates": "2014 – 2017"
+    }
+  ]
+}

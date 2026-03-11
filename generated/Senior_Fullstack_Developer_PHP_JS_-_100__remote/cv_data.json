@@ -1,0 +1,41 @@
+{
+  "nom": "John Doe",
+  "titre": "Senior Fullstack Developer PHP/JS - 100% remote",
+  "email": "",
+  "telephone": "",
+  "ville": "Montpellier",
+  "linkedin": "",
+  "github": "",
+  "photo": "",
+  "accroche": "Candidature pour le poste de Senior Fullstack Developer PHP/JS - 100% remote chez Unknown.",
+  "competences": [
+    "Git"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Natif"
+    }
+  ],
+  "experiences": [],
+  "projets": [
+    {
+      "nom": "Unity Mobile Game",
+      "technologies": [
+        "Unity",
+        "C#",
+        "SQLite"
+      ],
+      "description": "Mobile game built with Unity using SQLite save system"
+    },
+    {
+      "nom": "Perudo Online",
+      "technologies": [
+        "React",
+        "Node"
+      ],
+      "description": "Online multiplayer dice game"
+    }
+  ],
+  "formation": []
+}
